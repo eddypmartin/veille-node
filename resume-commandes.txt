@@ -136,6 +136,12 @@ $ git reset <commit>
 ... et préserve les changements local non committed
 $ git reset --keep <commit>
 
+///////////////////////////////
+
+To remove a remote repository you enter:
+
+git remote rm origin
+
 
 
 
